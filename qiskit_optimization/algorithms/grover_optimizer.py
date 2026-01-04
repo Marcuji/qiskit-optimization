@@ -1,4 +1,4 @@
-# This code is part of a Qiskit project.
+# This code is part of a Qiskit project. Bella a tutti ragazzi!
 #
 # (C) Copyright IBM 2020, 2025.
 #
